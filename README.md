@@ -11,7 +11,7 @@ A modern, responsive landing page for **Micro Information Technology Services (M
 ## 🚀 Live Demo
 
 🌐 View the site here:  
-👉 [https://NARENDRANATHJUTHUGA.github.io/mits-landing-page](https://NARENDRANATHJUTHUGA.github.io/mits-landing-page)
+👉  https://narendranathjuthuga.github.io/Mits-landing-page/
 
 ---
 
